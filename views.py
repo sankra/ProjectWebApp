@@ -5,6 +5,6 @@ views= Blueprint('views',__name__)
 @views.route('/')
 def home():
     return " <h1> Home Page hello</h1>"
-	
-def gruham():
-	retrun "beshukga vundhi"
+
+def gruhama():
+	retrun "beshukga vundhiaaaaaaaaa"
