@@ -8,3 +8,8 @@ def home():
 
 def gruhama():
 	retrun "beshukga vundhiaaaaaaaaa"
+
+'''
+def gruhama():
+	retrun "beshukga vundhiaaaaaaaaa"
+'''
