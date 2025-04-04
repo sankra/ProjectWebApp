@@ -14,3 +14,9 @@ def logout():
 @auth.route('/signup')
 def signup():
     return "<p>Signup</p>"
+
+'''
+@auth.route('/signup')
+def signup():
+    return "<p>Signup</p>"
+'''
